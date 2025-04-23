@@ -1,0 +1,73 @@
+\begin{thebibliography}{99}
+
+\bibitem{bot90}
+  Botafogo, R.A., Rivlin, E., \& Shneiderman, B. Structural
+  analysis of hypertext: Identifying hierarchies and useful metrics.
+  {\em ACM Trans. on Information Systems}. (to appear).
+
+\bibitem{bot91}
+  Botafogo, R.A., \& Shneiderman, B. (1991).
+  Identifying aggregates in hypertext structures.
+  {\em Proceedings of the Hypertext 91 Conference}, 
+  Available from ACM, New York, NY.
+
+\bibitem{cha87}
+  Charney, D. (1987). Comprehending non-linear text: The role of discourse
+  cues and reading strategies.
+  {\em Proceeding of the Hypertext 87 Conference}
+  (pp. 109-120),
+  Chapel Hill, North Carolina.
+
+\bibitem{fur86}
+  Furnas, G. W. (1986). Generalized fisheye views.
+  {\em Proceeding of the CHI 86 Conference},
+  (pp. 16-23). Available from ACM, New York, NY.
+
+\bibitem{hal88}
+  Halasz, F.G. (1988). Reflections on NoteCards: Seven issues
+  for the next generation of hypermedia systems. 
+  {\em Communications of the ACM}, 31 (7), 836-852.
+
+\bibitem{har59}
+  Harary, F. (1959). Status and contrastatus. {\em Sociometry},
+  22, 23-43.
+
+\bibitem{bb}
+  Johnson, B. \& Shneiderman, B. (1991).
+  Tree-Maps: A space-filling approach to the visualization of 
+  hierarchical information structures.
+  {\em Proc. IEEE Visualization 91 Conference}.
+
+\bibitem{mar89}
+  Marshall, C. C. (1989). Guided tours and on-line presentations:How
+  authors make existing hypertext intelligible for readers.
+  {\em Proceedings of the Hypertext 89 Conference}, 15-26. Pittsburgh,
+  Pennsylvania.
+
+\bibitem{nie90}
+  Nielsen, J. (1990). The art of navigating through hypertext.
+  {\em Communications of the ACM}, 33 (3), 296-310.
+
+\bibitem{nor}
+  Norman, K. L. (1991). Personal communication. 
+
+\bibitem{shn89}
+  Shneiderman, B., \& Kearsley, G. (1989).
+  {\em Hypertext Hands-On!}. Massachusetts: Addison-Wesley Publishing.
+
+\bibitem{shne90}
+  Shneiderman, B.(1991).
+  Tree visualization with Tree-maps: A 2-d space-filling approach.
+  {\em ACM Transactions on Graphics}, December 1991.
+
+\bibitem{van83}
+  van Dijk, T, \& Kintsch, W. (1983). {\em Strategies of discourse 
+  comprehension.}
+  New York: Academic Press.
+
+
+
+\end{thebibliography}
+\end{document}
+
+
